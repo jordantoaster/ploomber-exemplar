@@ -54,7 +54,7 @@ This will create and push a Docker image to your ECR repository and create multi
 
 You can use the AWS Batch console to monitor job status and even view logs via CloudWatch integration. The jobs should finish with a SUCCEEDED status.
 
-![image](images/batch.png)
+![image](images/batch-screenshot.jpg)
 
 ## Improvements / Pain Points
 
