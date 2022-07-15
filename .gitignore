@@ -1,0 +1,7 @@
+credentials.json
+venv
+__pycache__
+batch
+dist
+output
+.DS_STORE

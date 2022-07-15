@@ -1,0 +1,8 @@
+ploomber==0.19.7
+jupyter
+pandas
+pyarrow
+scikit-learn
+sklearn-evaluation
+soopervisor
+boto3

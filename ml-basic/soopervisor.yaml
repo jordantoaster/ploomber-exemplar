@@ -1,0 +1,6 @@
+batch:
+  backend: aws-batch
+  container_properties: {memory: 16384, vcpus: 8}
+  job_queue: jmcd-test-ploomber
+  region_name: us-east-1
+  repository: ***REMOVED***.dkr.ecr.us-east-1.amazonaws.com/jmcd-test-ploomber
